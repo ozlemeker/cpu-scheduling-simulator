@@ -40,17 +40,17 @@ utils.py       # Metric calculations and formatted output
 ## Educational Purpose
 
 This project is designed to provide practical insight into CPU scheduling policies and their trade-offs in terms of:
- -Performance vs fairness
- -Starvation risk
- -Responsiveness
- -Suitability for different workload types (CPU-bound vs I/O-bound)
+ - Performance vs fairness
+ - Starvation risk
+ - Responsiveness
+ - Suitability for different workload types (CPU-bound vs I/O-bound)
 It serves as a foundation for understanding real-world schedulers used in modern operating systems.
 
 ## Technologies
 
- -Language: Python
- -Paradigm: Discrete-event simulation
- -Interface: Command-line (CLI)
+ - Language: Python
+ - Paradigm: Discrete-event simulation
+ - Interface: Command-line (CLI)
 
 ## Author
 
