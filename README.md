@@ -55,5 +55,8 @@ It serves as a foundation for understanding real-world schedulers used in modern
 ## Author
 
 Özlem Eker
-CS 305 – Operating Systems
 December 2025
+
+---
+## License
+Academic use only. Submitted as coursework for CS 305: Operating Systems.
